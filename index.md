@@ -1,5 +1,5 @@
 
-# Dravin Armstrongs Portfolio 
+# Dravin Armstrong's Portfolio 
 
 I am a computer science major at CSUF and I hope to graduate in 2028
 
